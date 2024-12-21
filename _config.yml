@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Made by 徐梓安" # 标题
 title_separator          : "-"
 name                     : &name "徐梓安"
-description              : &description "我是徐梓安，此网站用于发布我个人用Unity自制的音乐游戏“Perfect Line”游戏（原型游戏为Cheetah Mobile公司制作的游戏“Dancing Line”）。
+description              : &description "我是徐梓安，此网站用于发布我个人用Unity自制的音乐游戏“Perfect Line”游戏（原型游戏为Cheetah Mobile公司制作的游戏“Dancing Line”）。"
 url                      : https://iamzianxu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "IamZianXu/iamzianxu.github.io"
