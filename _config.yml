@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Made by 徐梓安"
+title                    : "Made by 徐梓安" # 标题
 title_separator          : "-"
 name                     : &name "徐梓安"
 description              : &description "我是徐梓安，此网站用于发布我个人用Unity自制的音乐游戏“Perfect Line”游戏（原型游戏为Cheetah Mobile公司制作的游戏“Dancing Line”）。
@@ -21,7 +21,7 @@ repository               : "IamZianXu/iamzianxu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png" # 头像
   name             : "徐梓安"
   pronouns         : "he"
   bio              : "我是徐梓安，此网站用于发布我个人用Unity自制的音乐游戏“Perfect Line”游戏（原型游戏为Cheetah Mobile公司制作的游戏“Dancing Line”）。"
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "IamZianXu"
+  github           : "IamZianXu" # GitHub 用户名
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
