@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "我是徐梓安，此网站用于发布我个人用Unity自制的音乐游戏“Perfect Line”游戏（原型游戏为Cheetah Mobile公司制作的游戏“Dancing Line”）。"
 author_profile: true
 redirect_from: 
   - /about/
